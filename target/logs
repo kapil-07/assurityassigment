@@ -1,0 +1,34 @@
+2019-11-05 09:12:53 INFO  CucumberReporterFormatter:74 - Scenario Test ID is 1234
+2019-11-05 09:12:53 INFO  CucumberReporterFormatter:75 - Running the scenario for Test ID 1234
+2019-11-05 09:12:53 INFO  CucumberReporterFormatter:86 - End of Step Given 
+2019-11-05 09:12:53 INFO  CucumberReporterFormatter:86 - End of Step And 
+2019-11-05 09:12:53 INFO  CucumberReporterFormatter:86 - End of Step And 
+2019-11-05 09:12:59 INFO  ExcelUtils:40 - *** Reading the Sheet with Name DataSheet ****
+2019-11-05 09:12:59 INFO  ExcelUtils:46 - **** Skipping the Header row of Excel Sheet ****
+2019-11-05 09:13:03 INFO  RestAssuredUtils:44 - *** Checking whether any nested value is present in the query Parameter ***
+2019-11-05 09:13:03 INFO  RestAssuredUtils:53 - **** Checking whether any nested value is present in request headers and replacing them ***
+2019-11-05 09:19:44 INFO  CucumberReporterFormatter:74 - Scenario Test ID is 1234
+2019-11-05 09:19:44 INFO  CucumberReporterFormatter:75 - Running the scenario for Test ID 1234
+2019-11-05 09:19:44 INFO  CucumberReporterFormatter:86 - End of Step Given 
+2019-11-05 09:19:44 INFO  CucumberReporterFormatter:86 - End of Step And 
+2019-11-05 09:19:44 INFO  CucumberReporterFormatter:86 - End of Step And 
+2019-11-05 09:19:51 INFO  ExcelUtils:40 - *** Reading the Sheet with Name DataSheet ****
+2019-11-05 09:19:51 INFO  ExcelUtils:46 - **** Skipping the Header row of Excel Sheet ****
+2019-11-05 09:19:55 INFO  RestAssuredUtils:44 - *** Checking whether any nested value is present in the query Parameter ***
+2019-11-05 09:19:55 INFO  RestAssuredUtils:53 - **** Checking whether any nested value is present in request headers and replacing them ***
+2019-11-05 09:20:05 INFO  RestAssuredUtils:147 - Actual Response ==> Name Contains Carbon credits ===> Passed
+2019-11-05 09:20:05 INFO  RestAssuredUtils:147 - Actual Response ==> Promotions.[1].Name Contains Gallery ===> Passed
+2019-11-05 09:20:05 INFO  RestAssuredUtils:140 - Actual Response ==> Promotions.[1].Description Contains 2x larger image ===> Passed
+2019-11-05 09:22:33 INFO  CucumberReporterFormatter:74 - Scenario Test ID is 1234
+2019-11-05 09:22:33 INFO  CucumberReporterFormatter:75 - Running the scenario for Test ID 1234
+2019-11-05 09:22:33 INFO  CucumberReporterFormatter:76 - Steps involved in a scenario are :
+2019-11-05 09:22:33 INFO  CucumberReporterFormatter:87 - Step ===> user loads the excel sheet "./Fixture/Test_API_Excel.xlsx"
+2019-11-05 09:22:33 INFO  CucumberReporterFormatter:87 - Step ===> user validates status code for method "m001"
+2019-11-05 09:22:33 INFO  CucumberReporterFormatter:87 - Step ===> user validates response for method "m001"
+2019-11-05 09:22:35 INFO  ExcelUtils:40 - *** Reading the Sheet with Name DataSheet ****
+2019-11-05 09:22:35 INFO  ExcelUtils:46 - **** Skipping the Header row of Excel Sheet ****
+2019-11-05 09:22:37 INFO  RestAssuredUtils:44 - *** Checking whether any nested value is present in the query Parameter ***
+2019-11-05 09:22:37 INFO  RestAssuredUtils:53 - **** Checking whether any nested value is present in request headers and replacing them ***
+2019-11-05 09:22:42 INFO  RestAssuredUtils:147 - Actual Response ==> Name Contains Carbon credits ===> Passed
+2019-11-05 09:22:42 INFO  RestAssuredUtils:147 - Actual Response ==> Promotions.[1].Name Contains Gallery ===> Passed
+2019-11-05 09:22:42 INFO  RestAssuredUtils:140 - Actual Response ==> Promotions.[1].Description Contains 2x larger image ===> Passed
