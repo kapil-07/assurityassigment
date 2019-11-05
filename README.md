@@ -3,7 +3,7 @@ REST API automation framework with BDD approach
 
 
 This framework desgin is data driven framework in which we have leveraged REST assured and Cucumber frameworks.
-
+Feature folder contains feature files which you want to run and Fixture contains excel sheet which would be read at run time as per the name you have provided in the feature file
 # com.assurityassignment.steps.RestSteps
 This class contains Steps for creating feature file which would load the excel sheet and read the content which should have headers in following order :-
 - Test_Id (This is used to identify the particular Scenario)
